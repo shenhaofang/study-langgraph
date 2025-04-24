@@ -2,6 +2,7 @@ langgraph
 langgraph-prebuilt
 langgraph-sdk
 langgraph-checkpoint-sqlite
+langgraph-checkpoint-mysql
 langsmith
 langchain-community
 langchain-core
@@ -10,4 +11,5 @@ notebook
 tavily-python
 wikipedia
 trustcall
+aiomysql
 langgraph-cli[inmem]
