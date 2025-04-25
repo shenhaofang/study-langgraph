@@ -4,3 +4,5 @@ langgraph-study.code-workspace
 langgraph.json
 .langgraph_api/*
 *__pycache__/
+.cursor
+.env
